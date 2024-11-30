@@ -1,0 +1,11 @@
+{
+  "name": "my-docs",
+  "version": "1.0.0",
+  "description": "My API Documentation",
+  "scripts": {
+    "dev": "mintlify dev"
+  },
+  "dependencies": {
+    "@mintlify/scraping": "^4.0.20"
+  }
+}
